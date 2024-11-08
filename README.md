@@ -4,7 +4,7 @@ This project demonstrates a simple linear regression model to predict house pric
 Dataset
 The dataset used is the Boston housing dataset, which contains information about various attributes of houses in Boston and their corresponding prices.
 
-Libraries Used
+**Libraries Used**
 numpy
 matplotlib
 pandas
